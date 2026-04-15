@@ -3,8 +3,8 @@
 
 ## 1. Team Information
 
-- Team Member 1: VAGEESH (PES2UG24CS663)
-- Team Member 2: ARYA V D (PES2UG24CS629)
+- Team Member 1: AMIT(PES2UG24CS624)
+- Team Member 2: SANGAMESH (PES2UG24CS640)
 
 ## 2. Build, Load, and Run Instructions
 
