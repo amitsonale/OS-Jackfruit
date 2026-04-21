@@ -96,7 +96,7 @@ sudo make clean
 ```
 
 ## 3. Demo with Screenshots
-![Multi-container supervision](screenshots/1%20os.png)
+![Multi-container supervision](images/1%20os.jpeg)
 Caption: Two containers are running under one supervisor process, proving concurrent supervision.
 
 ### 3.2 Metadata tracking (`ps` output)
