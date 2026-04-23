@@ -120,12 +120,12 @@ Caption: `dmesg` shows soft-limit warning when RSS crosses configured soft thres
 Caption: `dmesg` shows hard-limit enforcement (SIGKILL) and supervisor metadata reflects forced termination.
 
 ### 3.7 Scheduling experiment
-![Scheduling experiment](images/7%20os.jpeg)
+![Scheduling experiment](images/6%20os.jpeg)
 Caption: Different scheduler configurations (`nice`) show measurable performance difference.
 Each screenshot includes a short caption describing what it proves.
 
 ### 3.1 Multi-container supervision
-![Multi-container supervision](screenshots/os1.png)
+![Multi-container supervision](images/7%20os.jpeg)
 Caption: Two containers are running under one supervisor process, proving concurrent supervision.
 
 ### 3.2 Metadata tracking (`ps` output)
