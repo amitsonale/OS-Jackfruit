@@ -108,7 +108,7 @@ Caption: Two containers are running under one supervisor process, proving concur
 Caption: `engine ps` displays container metadata and state transitions maintained by the supervisor.
 
 ### 3.3 Bounded-buffer logging
-![Bounded-buffer logging](images/3%20os.jpeg)
+![Bounded-buffer logging](images/os33.png)
 Caption: `logs/alpha.log` contains captured stdout/stderr, proving log-path producer-consumer operation.
 
 ### 3.4 CLI and IPC
