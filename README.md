@@ -128,12 +128,6 @@ Caption: `dmesg` shows hard-limit enforcement (SIGKILL) and supervisor metadata 
 Caption: Different scheduler configurations (`nice`) show measurable performance difference.
 Each screenshot includes a short caption describing what it proves.
 
-
-### 3.2 Metadata tracking (`ps` output)
-
-
-Conclusion from demo: all required functional goals were demonstrated end-to-end: concurrent supervision, metadata/CLI control path, bounded logging, kernel memory policy, scheduling behavior, and cleanup correctness.
-
 ## 4. Engineering Analysis
 
 ### 4.1 Isolation mechanisms
