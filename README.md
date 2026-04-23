@@ -96,8 +96,12 @@ sudo make clean
 ```
 
 ## 3. Demo with Screenshots
+
+Caption: Two containers are running under one supervisor process, proving concurrent supervision.
+### 3.1 Multi-container supervision
 ![Multi-container supervision](images/1%20os.jpeg)
 Caption: Two containers are running under one supervisor process, proving concurrent supervision.
+
 
 ### 3.2 Metadata tracking (`ps` output)
 ![Metadata tracking](images/2%20os.jpeg)
@@ -116,7 +120,7 @@ Caption: CLI command is sent over control IPC and supervisor returns response.
 Caption: `dmesg` shows soft-limit warning when RSS crosses configured soft threshold.
 
 ### 3.6 Hard-limit enforcement
-![Hard-limit enforcement](images/6%20os.jpeg)
+![Hard-limit enforcement](images/5%20os.jpeg)
 Caption: `dmesg` shows hard-limit enforcement (SIGKILL) and supervisor metadata reflects forced termination.
 
 ### 3.7 Scheduling experiment
@@ -124,9 +128,6 @@ Caption: `dmesg` shows hard-limit enforcement (SIGKILL) and supervisor metadata 
 Caption: Different scheduler configurations (`nice`) show measurable performance difference.
 Each screenshot includes a short caption describing what it proves.
 
-### 3.1 Multi-container supervision
-![Multi-container supervision](images/7%20os.jpeg)
-Caption: Two containers are running under one supervisor process, proving concurrent supervision.
 
 ### 3.2 Metadata tracking (`ps` output)
 
