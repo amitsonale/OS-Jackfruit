@@ -3,8 +3,8 @@
 
 ## 1. Team Information
 
-- Team Member 1: AMIT(PES2UG24CS624)
-- Team Member 2: SANGAMESH (PES2UG24CS640)
+- Team Member 1: SHIVKUMAR(PES2UG23CS548)
+- Team Member 2: AKASHA(PES2UG25CS803)
 
 ## 2. Build, Load, and Run Instructions
 
